@@ -70,3 +70,4 @@ const promisefive = new Promise( (resolve, reject)=>{
 //     console.log(first)
 // })
 
+// Promises
