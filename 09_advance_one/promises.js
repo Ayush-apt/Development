@@ -69,3 +69,4 @@ const promisefive = new Promise( (resolve, reject)=>{
 //     const reponse = await promiseFive
 //     console.log(first)
 // })
+
