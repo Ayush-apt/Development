@@ -105,7 +105,7 @@ javascript-learning
 | Iterations | ✓ |
 | DOM Manipulation | ✓ |
 | Events | ✓ |
-| Async JavaScript | In Progress |
+| Async JavaScript | ✓ |
 | Promises | Pending |
 | Fetch API | Pending |
 | Object-Oriented Programming | Pending |
