@@ -106,7 +106,7 @@ javascript-learning
 | DOM Manipulation | ✓ |
 | Events | ✓ |
 | Async JavaScript | ✓ |
-| Promises | Pending |
+| Promises | ✓ |
 | Fetch API | Pending |
 | Object-Oriented Programming | Pending |
 
