@@ -107,8 +107,8 @@ javascript-learning
 | Events | ✓ |
 | Async JavaScript | ✓ |
 | Promises | ✓ |
-| Fetch API | Pending |
-| Object-Oriented Programming | Pending |
+| Fetch API | ✓ |
+| Object-Oriented Programming | ✓ |
 
 ---
 
