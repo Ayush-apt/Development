@@ -106,9 +106,9 @@ flowchart TD
 | Iterations & Array Methods | Completed      |
 | DOM Manipulation           | Completed      |
 | Events                     | Completed      |
-| Asynchronous JavaScript    | In Progress    |
-| Promises & API Handling    | In Progress    |
-| OOP in JavaScript          | In Progress    |
+| Asynchronous JavaScript    | Completed      |
+| Promises & API Handling    | Completed      |
+| OOP in JavaScript          | Completed      |
 
 ---
 
